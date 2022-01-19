@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xe13bc0a399fd335630abcb6e2a80760c4b480d53",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/tx/0xfe8167cc44d0e19681b13deef1d62a034f4c1eb606402e3fab11766dcbba8af5",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Pixle Flea",
+  "SYMBOL": "PFNFT",
+  "MAX_SUPPLY": 2861,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/pixle-flea",
+  "SHOW_BACKGROUND": true
+}
